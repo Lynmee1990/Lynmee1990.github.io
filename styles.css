@@ -171,6 +171,7 @@ body {
     width: 100%;
     text-align: center;
     text-transform: uppercase;
+    overflow: hidden;
     font-size: 0.8em;
 }
 
