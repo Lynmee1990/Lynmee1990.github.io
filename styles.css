@@ -79,9 +79,12 @@ body {
 .header-position {
     display: flex;
     width: auto;
-    justify-content: space-evenly;
+    justify-content: center;
 }
 .profession-header {
+    display: flex;
+    width: auto;
+    justify-content: center;
     margin-top: 120px;
     text-align: center;
     text-transform: uppercase;
