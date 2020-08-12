@@ -40,7 +40,7 @@ body {
 }
 
 @media screen and (max-width: 500px) {
-    .navlinks-right a {
+    .navlinks-left a {
     padding: 5px;
     margin-top: 37px;
     }
