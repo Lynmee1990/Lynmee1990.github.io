@@ -304,6 +304,7 @@ svg circle:nth-child(2) {
     .footer-content-left {
     font-size: 0.7em;
     margin-left: 10px;
+    margin-top: 30px;
     }
 }
 
@@ -334,6 +335,7 @@ svg circle:nth-child(2) {
 @media screen and (max-width: 500px) {
     .navlinks-right a {
     padding: 5px;
+    margin-top: 30px;
     }
 }
 
