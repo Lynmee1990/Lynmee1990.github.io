@@ -162,6 +162,7 @@ body {
     display: flex;
     justify-content: center;
     width: auto;
+    padding-bottom: 20px;
     text-align: center;
     text-transform: uppercase;
     font-size: 0.8em;
@@ -258,9 +259,10 @@ svg circle:nth-child(2) {
     display: flex;
     justify-content: space-between;
     width: 100%;
+    height: 100px;
     background-color: rgb(233, 232, 232);
     opacity: 0.8;
-    height: 100px;
+
 }
 
 .footer-content-left {
