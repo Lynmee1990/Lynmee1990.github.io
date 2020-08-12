@@ -39,6 +39,13 @@ body {
     text-decoration: none;
 }
 
+@media screen and (max-width: 500px) {
+    .navlinks-right a {
+    padding: 5px;
+    margin-top: 37px;
+    }
+}
+
 .navlinks-left:hover {
     border-bottom: 1px solid rgb(68, 68, 68);
     margin-bottom: 35px;
@@ -70,6 +77,13 @@ body {
     border-radius: 6px 6px 6px 6px;
 }
 
+@media screen and (max-width: 500px) {
+    .linkedin img {
+    height: 30px;
+    width: 30px;
+    }
+}
+
 .github img {
     height: 40px;
     width: 40px;
@@ -77,6 +91,13 @@ body {
     background-image: url(Images/github.png);
     background-color: white;
     border-radius: 6px 6px 6px 6px;
+}
+
+@media screen and (max-width: 500px) {
+    .github img {
+    height: 30px;
+    width: 30px;
+    }
 }
 
 /*About Me*/
