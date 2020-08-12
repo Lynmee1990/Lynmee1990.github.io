@@ -300,6 +300,12 @@ svg circle:nth-child(2) {
     margin-top: 10px;
 }
 
+@media screen and (max-width: 500px) {
+    .footer-content-left {
+    font-size: 0.7em;
+    }
+}
+
 .footer-content-right {
     display: flex;
     text-decoration: none;
