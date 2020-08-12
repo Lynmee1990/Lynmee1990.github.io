@@ -174,9 +174,9 @@ body {
     font-size: 0.8em;
 }
 
-@media screen (max-width 500px) {
+@media screen and (max-width: 500px) {
     .skills-chart-wrapper {
-    display:block;
+    flex-direction: column;
     }
 }
 
