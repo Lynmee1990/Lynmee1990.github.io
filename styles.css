@@ -249,10 +249,6 @@ svg circle:nth-child(2) {
     stroke: #07aab6;
 }
 
-@media (max-width: 600px) {
-    max-width: 600px;
-}
-
 /*Footer*/
 
 .footer-wrapper {
@@ -262,7 +258,6 @@ svg circle:nth-child(2) {
     height: 100px;
     background-color: rgb(233, 232, 232);
     opacity: 0.8;
-
 }
 
 .footer-content-left {
