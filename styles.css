@@ -318,7 +318,7 @@ svg circle:nth-child(2) {
 
 @media screen and (max-width: 500px) {
     .footer-content-right {
-    font-size: 0.7em;
+    font-size: 0.6em;
     margin-right: 5px;
     }
 }
