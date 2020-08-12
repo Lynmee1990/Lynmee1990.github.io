@@ -303,7 +303,7 @@ svg circle:nth-child(2) {
 @media screen and (max-width: 500px) {
     .footer-content-left {
     font-size: 0.7em;
-    margin-left: 20px;
+    margin-left: 10px;
     }
 }
 
@@ -330,6 +330,12 @@ svg circle:nth-child(2) {
     color: black;
     text-decoration: none;
 }
+
+@media screen and (max-width: 500px) {
+    .navlinks-right a {
+    padding: 5px;
+    }
+{}
 
 .navlinks-right:hover {
     border-bottom: 1px solid rgb(68, 68, 68);
