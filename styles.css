@@ -295,7 +295,6 @@ svg circle:nth-child(2) {
 
 .getintouch {
     text-transform: initial;
-    margin-top: 40px;
-    margin-bottom: 40px;
-    margin-left: 400px;
+    text-align: left;
+    margin-left: 25%;
 }
