@@ -335,7 +335,7 @@ svg circle:nth-child(2) {
 @media screen and (max-width: 500px) {
     .navlinks-right a {
     padding: 5px;
-    margin-top: 30px;
+    margin-top: 35px;
     }
 }
 
