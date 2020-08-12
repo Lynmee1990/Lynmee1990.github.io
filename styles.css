@@ -89,6 +89,7 @@ body {
 .icons-wrapper {
     display: flex;
     justify-content: center;
+    width: auto;
 }
 
 .icons img {
