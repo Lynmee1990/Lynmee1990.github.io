@@ -248,6 +248,10 @@ svg circle:nth-child(2) {
     stroke: #07aab6;
 }
 
+@media (max-width: 600px) {
+    max-width: 500px;
+}
+
 /*Footer*/
 
 .footer-wrapper {
