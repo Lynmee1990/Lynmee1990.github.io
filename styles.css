@@ -77,11 +77,12 @@ body {
 
 .header-position {
     display: flex;
-    width: 100%;
+    width: auto;
     justify-content: center;
 }
 .profession-header {
     margin-top: 120px;
+    text-align: center;
     text-transform: uppercase;
     text-shadow: 2px 2px 2px grey;
     font-size: 1.5em;
