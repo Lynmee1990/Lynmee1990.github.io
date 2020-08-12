@@ -160,7 +160,7 @@ body {
 .skills-chart-wrapper {
     display: flex;
     justify-content: space-evenly;
-    width: auto;
+    width: 90%;
     text-align: center;
     text-transform: uppercase;
     font-size: 0.8em;
