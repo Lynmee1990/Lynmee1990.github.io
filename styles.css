@@ -172,6 +172,10 @@ body {
     text-transform: uppercase;
     overflow: hidden;
     font-size: 0.8em;
+    @media screen {
+        max-width: 500px;
+        display:block;
+    }
 }
 
 .percent {
