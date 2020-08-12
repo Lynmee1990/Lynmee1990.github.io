@@ -65,19 +65,29 @@ body {
 
 .nav-content-right {
     display: flex;
-    justify-content: space-evenly;
     margin-right:30px;
     margin-top: 30px;
     text-transform: uppercase;
     color: black;
-    font-size: 0.8em;
 }
 
 @media screen and (max-width: 500px) {
     .nav-content-right {
-        font-size: 0.4em;
         margin-right: 5px;
         margin-top: 30px;
+    }
+}
+
+.my-name {
+    font-size: 0.8em;
+    margin-top: -10px;
+}
+
+@media screen and (max-width: 500px) {
+    .my-name {
+        font-size: 0.4em;
+        margin-right: 5px;
+        margin-top: 2px;
     }
 }
 
