@@ -335,7 +335,7 @@ svg circle:nth-child(2) {
     .navlinks-right a {
     padding: 5px;
     }
-{}
+}
 
 .navlinks-right:hover {
     border-bottom: 1px solid rgb(68, 68, 68);
